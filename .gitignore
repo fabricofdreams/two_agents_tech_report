@@ -1,0 +1,6 @@
+.env
+/db
+dataset.csv
+dataset_reduced.csv
+
+
